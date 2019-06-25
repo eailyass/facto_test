@@ -1,11 +1,11 @@
-##Additional remarks:
+## Additional remarks:
 
 - It is recommended to change the entities attributes' visibility to private in and use getters and setters to change the variables.
 
 - Changes made to this project were mentionned in comments and in github's commit messages.
 
 -- EA Ilyass
- 
+
 # Refactoring Kata Test
 
 ## Introduction
